@@ -1,0 +1,11 @@
+[init]
+	defaultBranch = main
+[user]
+	name = William Svoboda
+	email = wcsvoboda@gmail.com
+[credential]
+	helper = 
+	helper = /usr/local/share/gcm-core/git-credential-manager
+	guiPrompt = false
+[credential "https://dev.azure.com"]
+	useHttpPath = true
